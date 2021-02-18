@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Biodata Lord</title>
+    <title>Makanan</title>
 </head>
 <body>
     <h2 align="left">BIODATA LORD</h2>
@@ -9,4 +9,19 @@
             <td width="500">Nama makanan</td>
             <td width="500">dimasak</td>
             <td width="500">asal</td>
+        <tr>
+            <td>Pempek</td>
+            <td>Digoreng</td>
+            <td>Palembang</td>
+        </tr>
+        <tr>
+            <td>Sate</td>
+            <td>Panggang</td>
+            <td>madura</td>
+        </tr>
+        <tr>
+            <td>Kerak telor</td>
+            <td>Digoreng</td>
+            <td>Betawi</td>
+        </tr>
 </html>
