@@ -3,7 +3,7 @@
     <title>Makanan</title>
 </head>
 <body>
-    <h2 align="left">BIODATA LORD</h2>
+    <h2 align="left">NAMA MAKANAN/h2>
     <table border="1" cellspacing="2" cellpadding="6" align="left" width="800">
         <tr align="left" bgcolor="grey">
             <td width="500">Nama makanan</td>
